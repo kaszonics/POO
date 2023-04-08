@@ -1,0 +1,4 @@
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\CNP_Calculator\Debug\CNP_Calculator.vcxproj.AssemblyReference.cache
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\CNP_Calculator\Debug\CNP_Calculator.Form1.resources
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\CNP_Calculator\Debug\CNP_Calculator.vcxproj.GenerateResource.cache
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\CNP_Calculator\Debug\CNP_Calculator.exe

@@ -1,0 +1,4 @@
+﻿  CppCLR_WinformsProjekt.cpp
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\Calculator\Form1.h(524): warning C4715: 'CppCLRWinformsProjekt::Form1::LastCharIsOperator': not all control paths return a value
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Curs 1\Calculator\Debug\Calculator.exe
