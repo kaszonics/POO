@@ -1,0 +1,2 @@
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Laborator 4\CreditOrganizer\Debug\CreditOrganizer.exe
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Laborator 4\CreditOrganizer\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
