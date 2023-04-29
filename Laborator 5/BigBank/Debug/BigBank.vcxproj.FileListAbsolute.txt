@@ -1,0 +1,2 @@
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Laborator 5\BigBank\Debug\BigBank.vcxproj.AssemblyReference.cache
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Laborator 5\BigBank\Debug\BigBank.exe
