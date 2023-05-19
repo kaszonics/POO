@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Proiect\Kászoni_Csaba\Form1.h(315,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Proiect\Kászoni_Csaba\Form1.h(315,55): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Proiect\Kászoni_Csaba\Form1.h(316,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Proiect\Kászoni_Csaba\Form1.h(316,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Kászoni_Csaba.vcxproj -> D:\Facultate\Anul I\Semestrul II\Programare orientată pe obiecte\Proiect\Kászoni_Csaba\Debug\Kászoni_Csaba.exe

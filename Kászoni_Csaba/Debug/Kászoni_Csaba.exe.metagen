@@ -1,0 +1,50 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Kászoni_Csaba, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Match: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.String TeamAway 'get set' : 
+    System.String TeamHome 'get set' : 
+    Int32 Court 'get set' : 
+    Int32 Round 'get set' : 
+  Methods:
+    get_Round(): PrivateScope, Public, HideBySig, SpecialName
+    set_Round(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Court(): PrivateScope, Public, HideBySig, SpecialName
+    set_Court(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_TeamHome(): PrivateScope, Public, HideBySig, SpecialName
+    set_TeamHome(String): PrivateScope, Public, HideBySig, SpecialName
+    get_TeamAway(): PrivateScope, Public, HideBySig, SpecialName
+    set_TeamAway(String): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class Byes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.String Team 'get set' : 
+    Int32 Round 'get set' : 
+  Methods:
+    get_Round(): PrivateScope, Public, HideBySig, SpecialName
+    set_Round(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Team(): PrivateScope, Public, HideBySig, SpecialName
+    set_Team(String): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class CppCLRWinformsProjekt.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
